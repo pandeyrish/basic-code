@@ -1,4 +1,4 @@
-//Insertion sort is very similar to selection sort.
+//Insertion sort and selection sort are very similar.
 //As in selection sort, after k passes through the array, the first k elements are in sorted order.
 //However, the fundamental difference between the two algorithms is that 
 //insertion sort scans backwards from the current key, while selection sort scans forwards.
